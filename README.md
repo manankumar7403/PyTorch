@@ -18,24 +18,6 @@
 
 This repository contains a comprehensive collection of Jupyter notebooks demonstrating PyTorch concepts from fundamentals to advanced techniques. It serves as both a learning resource and a reference for PyTorch implementations.
 
-## Repository Structure
-
-```
-PYTORCH/
-├── 1_FundamentalsOfPyTorch.ipynb
-├── 2_FundamentalsOfPyTorch_2.ipynb
-├── 3_PyTorch_Workflow.ipynb
-├── 4_PyTorch_Workflow_2.ipynb
-├── 5_PyTorch_Classification_NN.ipynb
-├── 6_PyTorch_Classification_NN_2.ipynb
-├── 7_PyTorch_ComputerVision_and_CNN.ipynb
-├── 8_PyTorch_ComputerVision_and_CNN_2.ipynb
-├── 9_PyTorch_Custom_Datasets.ipynb
-├── 10_PyTorch_Custom_Datasets_2.ipynb
-├── 11_PyTorch_CellToScript_Mode_Modular.ipynb
-└── 12_PyTorch_CellToScript_Mode_Modular_2.ipynb
-```
-
 ## Getting Started
 
 ### Prerequisites
