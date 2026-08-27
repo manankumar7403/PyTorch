@@ -1,0 +1,11 @@
+EXTRA - CURRICULUM
+
+1) Write down 3 problems where you think machine classification could be useful (these can be anything, get creative as you like, for example, classifying credit card transactions as fraud or not fraud based on the purchase amount and purchase location features).
+
+2) Research the concept of "momentum" in gradient-based optimizers (like SGD or Adam), what does it mean?
+
+3) Spend 10-minutes reading the Wikipedia page for different activation functions (https://en.wikipedia.org/wiki/Activation_function#Table_of_activation_functions), how many of these can you line up with PyTorch's activation functions (https://pytorch.org/docs/stable/nn.html#non-linear-activations-weighted-sum-nonlinearity)?
+
+4) Research when accuracy might be a poor metric to use (hint: read "Beyond Accuracy" by by Will Koehrsen (https://willkoehrsen.github.io/statistics/learning/beyond-accuracy-precision-and-recall/) for ideas).
+
+5) Watch: For an idea of what's happening within our neural networks and what they're doing to learn, watch MIT's Introduction to Deep Learning video (https://youtu.be/7sB052Pz0sQ).

@@ -1,0 +1,6 @@
+# EXTRA - CURRICULUM
+1) Look up what "model fine-tuning" is and spend 30-minutes researching different methods to perform it with PyTorch. How would we change our code to fine-tune? Tip: fine-tuning usually works best if you have lots of custom data, where as, feature extraction is typically better if you have less custom data.
+
+2) Check out the new/upcoming [PyTorch multi-weights API](https://pytorch.org/blog/introducing-torchvision-new-multi-weight-support-api/) (still in beta at time of writing, May 2022), it's a new way to perform transfer learning in PyTorch. What changes to our code would need to be made to use the new API?
+
+3) Try to create your own classifier on two classes of images, for example, you could collect 10 photos of your dog and your friend's dog and train a model to classify the two dogs. This would be a good way to practice creating a dataset as well as building a model on that dataset.

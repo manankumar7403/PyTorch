@@ -1,0 +1,21 @@
+EXTRA - CURRICULUM
+
+1) Listen to The Unofficial PyTorch Optimization Loop Song (https://www.youtube.com/watch?v=Nutpusq_AFw) (to help remember the steps in a PyTorch training/testing loop).
+
+2) Read What is torch.nn, really? (https://pytorch.org/tutorials/beginner/nn_tutorial.html) by Jeremy Howard for a deeper understanding of how one of the most important modules in PyTorch works.
+
+3) Spend 10-minutes scrolling through and checking out the PyTorch documentation cheatsheet (https://pytorch.org/tutorials/beginner/ptcheat.html) for all of the different PyTorch modules you might come across.
+
+4) Spend 10-minutes reading the loading and saving documentation (https://pytorch.org/tutorials/beginner/saving_loading_models.html) on the PyTorch website to become more familiar with the different saving and loading options in PyTorch.
+
+5) Spend 1-2 hours read/watching the following for an overview of the internals of gradient descent and backpropagation, the two main algorithms that have been working in the background to help our model learn.
+
+6) Wikipedia page for gradient descent (https://en.wikipedia.org/wiki/Gradient_descent)
+
+7) Gradient Descent Algorithm — a deep dive by Robert Kwiatkowski (https://towardsdatascience.com/gradient-descent-algorithm-a-deep-dive-cf04e8115f21)
+
+8) Gradient descent, how neural networks learn video by 3Blue1Brown (https://www.youtube.com/watch?v=IHZwWFHWa-w)
+
+9) What is backpropagation really doing? video by 3Blue1Brown (https://www.youtube.com/watch?v=Ilg3gGewQ5U)
+
+10) Backpropagation Wikipedia Page (https://en.wikipedia.org/wiki/Backpropagation)

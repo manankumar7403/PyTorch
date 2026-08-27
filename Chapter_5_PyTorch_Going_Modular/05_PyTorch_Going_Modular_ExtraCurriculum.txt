@@ -1,0 +1,6 @@
+#EXTRA - CURRICULUM
+1) To learn more about structuring a Python project, check out Real Python's guide on [Python Application Layouts] (https://realpython.com/python-application-layouts/).
+
+2) For ideas on styling your PyTorch code, check out the [PyTorch style guide by Igor Susmelj] (https://github.com/IgorSusmelj/pytorch-styleguide#recommended-code-structure-for-training-your-model) (much of styling in this chapter is based off this guide + various similar PyTorch repositories).
+
+3) For an example train.py script and various other PyTorch scripts written by the PyTorch team to train state-of-the-art image classification models, check out their [classification repository on GitHub] (https://github.com/pytorch/vision/tree/main/references/classification).
