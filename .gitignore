@@ -1,19 +1,9 @@
-﻿1.png
-10.png
-11.png
-12.png
-2.png
-3.png
-4.png
-5.png
-6.png
-7.png
-8.png
-9.png
-Book on Neural Networks and Deep Learning.docx
-Deep-Learning-with-PyTorch.pdf
-Learn PyTorch for Deep Learning_ Zero to Mastery book.docx
-Pytorch_Tutorial.pdf
-UC-2fea7b0f-257d-46dd-9b46-ee33ce32d9f2.jpg
-UC-2fea7b0f-257d-46dd-9b46-ee33ce32d9f2.pdf
+﻿# Ignore local-only support files and screenshots
+*.png
+*.jpg
+*.jpeg
+*.pdf
 helper_functions.py
+
+# Ignore notebook or doc artifacts not intended for the GitHub repo
+*.docx
